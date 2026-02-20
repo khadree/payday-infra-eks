@@ -1,0 +1,5 @@
+region          = "us-east-1"
+cluster_name    = "payday-cluster"
+cluster_version = "1.34"
+vpc_cidr        = "10.0.0.0/16"
+environment     = "dev"
